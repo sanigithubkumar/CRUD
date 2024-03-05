@@ -1,0 +1,27 @@
+td button{
+    border: none;
+    border-radius: 3px;
+    margin: 2px;
+    background-color: antiquewhite;
+}
+td button:hover{
+    background-color: yellowgreen;
+    color: white;
+}
+#red:hover{
+    background-color: rgb(233, 119, 119);
+    color: aliceblue;
+}
+#add{
+    background-color: rgb(104, 230, 104);
+    color: white;
+    border: none;
+    border-radius: 3px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+
+}
+#add:hover{
+    background-color: green;
+    color: white;
+}

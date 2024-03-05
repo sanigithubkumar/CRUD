@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "2472",
+      "name": "chitra",
+      "email": "chitra@gmail.com"
+    },
+    {
+      "id": "73f1",
+      "name": "pujita",
+      "email": "puja123@gmail.com"
+    },
+    {
+      "id": "86f7",
+      "name": "sani kumar",
+      "email": "sk90933sk@gamil.com"
+    },
+    {
+      "id": "1866",
+      "name": "vinit",
+      "email": "vinit@gmail.com"
+    },
+    {
+      "id": "7d96",
+      "name": "sonu kumar",
+      "email": "sonu@1234"
+    }
+  ]
+}
